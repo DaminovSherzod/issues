@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "title": "tasks4",
+    "description": "description",
+    "status": true,
+    "created_at": "2022-11-12T11:27:54.442Z",
+    "updated_at": "2022-11-15T12:01:03.981Z",
+    "user": "sherzod"
+}
